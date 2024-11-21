@@ -1,4 +1,4 @@
-#Standby tasks
+# Standby tasks
 
 This is a folder dedicated to amfoss standby tasks.
 The folder flaunt contains the react app I made.
